@@ -142,4 +142,4 @@ systemctl status sys-audit.timer
 Matt Shaw — Cloud DevOps Engineer in transition from 20+ years in food service.  
 Turns out kitchens and servers fail the same way. You just use different tools to fix them.
 
-[GitHub](https://github.com/mattrshaw4) · [Medium](https://medium.com/@matt.r.shaw4) · [Newsletter — Terraforming My Career](https://medium.com/@matt.r.shaw4)
+[GitHub](https://github.com/mattrshaw4) · [Medium](https://medium.com/@matt.r.shaw4) · 
